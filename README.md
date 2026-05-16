@@ -1,6 +1,6 @@
-# nji_durell_ca
+# vanessa Premium
 
-A new Flutter project.
+Premium task management with a modern glassmorphism UI and refined dark theme.
 
 ## Getting Started
 

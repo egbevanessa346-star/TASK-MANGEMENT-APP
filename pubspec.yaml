@@ -1,5 +1,5 @@
-name: VANESSA_ca
-description: "A new Flutter project."
+name: "vanessa"
+description: "Premium task management with modern glassmorphism UI."
 publish_to: 'none'
 
 version: 1.0.0+1
